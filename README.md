@@ -17,6 +17,6 @@ It was created with HTML, CSS and Javascript. Its is lightweight and fully respo
 * Provide feature to change the themes or colors easily.
 
 ## Changelog
-
+https://darling-bavarois-cd94c0.netlify.app
 ### 1.0.0
 2023 FOR PRUDENT NGAIPERA DONG
